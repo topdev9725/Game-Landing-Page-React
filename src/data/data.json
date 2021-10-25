@@ -1,0 +1,259 @@
+{
+  "Header": {
+    "title": "An island full of challenges for you to win and have fun",
+    "paragraph": "Participate in the tournament that will choose the best bird in",
+    "subtitle": "MAFAGÁGOS ISLAND"
+  },
+  "Island": [
+    {
+      "image": "img/item.png",
+      "title": "Paradise",
+      "subtitle": "In a small and paradisiacal island there are several birds that don't know how to fly, but they have several other abilities and an intense competitive spirit. They want to discover a chance to escape the island and experience their full freedom."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Competition",
+      "subtitle": "For that they need to choose a leader who will be able to get them out of there. Competitors will be put to the test in an incredible competition to find out who will be the savior of the island of Mafagafos. All this with a lot of emotion and thousands of opportunities to earn and profit having fun."
+    }
+  ],
+  "Battle": [
+    {
+      "image": "img/item.png",
+      "title": "play for free as much as you like",
+      "subtitle": "The first 3 levels, each with a different bird, will be free for you to play as much as you like 100% free of charge. Don't worry about playing time or game numbers. It's all limitless for you to have the most fun."
+    }
+  ],
+  "Challenging": [
+    {
+      "image": "img/item.png",
+      "title": "Competition",
+      "subtitle": "For each round, one of seven different maps of the island of Mafagafos is chosen at random. The maps have unique difficulties, routes and surprises and challenge players to adapt to new situations."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Always a new challenge",
+      "subtitle": "For each round, one of seven different maps of the island of Mafagafos is chosen at random. The maps have unique difficulties, routes and surprises and challenge players to adapt to new situations."
+    }
+  ],
+  "Level": [
+    {
+      "image": "img/item.png",
+      "title": "XP Points",
+      "subtitle": "XPs are the points distributed among the players on the Isle of Mafagafos. All participants earn XPs. And the better the position at the end of the matches, the more points you earn. There are several other ways to earn XP: game time, surprise challenges and more."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Using your XPs",
+      "subtitle": "With XPs you can buy items to use in your matches or resell them for Mafacoins, the currency of Mafagaphos Island. XPs can also be used to advance between levels and unlock new birds."
+    }
+  ],
+  "NFTS": [
+    {
+      "image": "img/item.png",
+      "title": "Buy and sell",
+      "subtitle": "The birds will be identified as a unique NFT and may be marketed on the Island's marketplace. In addition to the birds, the marketplace will provide accessories and the rental of brooders for those who do not want to buy theirs, but who have enough XP to breed their birds."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Unique and highly desired copies",
+      "subtitle": "Bird types will be limited by season. That is, whoever wins yours will have a blockchain-registered NFT in their hands that will become more and more valuable over time. In addition, the birds can be crossed, generating offspring with unprecedented characteristics and without another equal specimen. Certainly the most desirable of the island of Mafagáfos."
+    }
+  ],
+  "Earning": [
+    {
+      "image": "img/item.png",
+      "title": "Crossings",
+      "subtitle": "Create amazing new birds by crossing two different species. To carry out the reproduction it will be necessary to rent brooders, which will be purchased with Mafacoins."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Brooder Rental",
+      "subtitle": "You don't necessarily need to use your brooder to breed your birds. You can rent it to other players who didn't want to buy yours. The brooder owner receives a percentage of future sales from the birds born in the brooder."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Rare and limited items",
+      "subtitle": "In addition to the birds, you will also be able to trade your conquered items, which will be limited in quantity and by season. In addition to the items conquered within the levels, you can buy and sell them as many as you like."
+    },
+    {
+      "image": "img/item.png",
+      "title": "Brooder Rental",
+      "subtitle": "You don't necessarily need to use your brooder to breed your birds. You can rent it to other players who didn't want to buy yours. The brooder owner receives a percentage of future sales from the birds born in the brooder."
+    }
+  ],
+  "Roadmap": [
+    {
+      "image": "img/item.png",
+      "title": "Q1/2021",
+      "subtitle": "- Lorem ipsum dolor metum"
+    },
+    {
+      "image": "img/item.png",
+      "title": "Q1/2021",
+      "subtitle": "- Lorem ipsum dolor metum"
+    },
+    {
+      "image": "img/item.png",
+      "title": "Q1/2021",
+      "subtitle": "- Lorem ipsum dolor metum"
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "image": "&lt;img src='img/match.png' &gt;",
+      "title": "Matches",
+      "text": "The matches start with 40 competitors and consist of 4 elimination rounds."
+    },
+    {
+      "image": "&lt;img src='img/elimination.png' &gt;",
+      "title": "Eliminations",
+      "text": "The top 8 finishers of each round advance to the next stage."
+    },
+    {
+      "image": "&lt;img src='img/winner.png' &gt;",
+      "title": "Winner",
+      "text": "In the final battle, only one bird becomes the big winner."
+    }
+  ]
+}
