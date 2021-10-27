@@ -48,4 +48,44 @@
   <div id="root"></div>
   <script type="text/javascript" src="js/jquery.1.11.1.js"></script>
   <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script>
+    $(document).scroll(function(){
+      if ($(document).scrollTop() > $('#features').height()) {
+        var element = document.getElementById("sub-features");
+        element.classList.add("top-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height()) {
+        var element = document.getElementById('sub-island');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height()) {
+        var element = document.getElementById('sub-become');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height()) {
+        var element = document.getElementById('sub-challenging');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height() + $('#level').height()) {
+        var element = document.getElementById('sub-level');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height() + $('#level').height() + 1000) {
+        var element = document.getElementById('sub-battle');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height() + $('#level').height() + $('#nfts').height() + 1000) {
+        var element = document.getElementById('sub-nfts');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height() + $('#level').height() + $('#nfts').height() + $('#earning').height() + 500) {
+        var element = document.getElementById('sub-earning');
+        element.classList.add("bottom-target");
+      }
+      if ($(document).scrollTop() > $('#features').height() + $('#island').height() + $('#become').height() + $('#challenging').height() + $('#level').height() + $('#nfts').height() + $('#earning').height() + $('#roadmap').height() + 1000) {
+        var element = document.getElementById('sub-roadmap');
+        element.classList.add("bottom-target");
+      }
+    })
+  </script>
 </body>

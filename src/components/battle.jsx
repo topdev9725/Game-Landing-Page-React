@@ -11,7 +11,7 @@ export const Battle = (props) => {
             <p className="f-25 text-capitalize">The way to access all levels</p>
           </div>
         </div>
-        <div className='row'>
+        <div className='row' id="sub-battle">
           <div className="col-12 col-md-6">
             <VerticalLabelCard />
             <VerticalLabelCard />

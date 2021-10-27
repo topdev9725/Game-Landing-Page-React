@@ -10,10 +10,10 @@ export const Earning = (props) => {
             <p className="f-25 text-capitalize">See how to go beyond the fun</p>
           </div>
         </div>
-        <div className='row'>
+        <div className='row' id="sub-earning">
           {props.data
             ? props.data.map((data, i) => (
-              <div className="col-12 col-md-6" key={i}>
+              <div className="col-12 col-md-6 bottom-target" key={i}>
                 <CardImage props={data} />
               </div>
             ))

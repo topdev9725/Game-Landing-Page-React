@@ -1,11 +1,12 @@
 export const Header = (props) => {
+
   return (
     <header id='header'>
       <div className='intro'>
         <div className='overlay'>
           <div className='container'>
             <div className='row'>
-              <div className='col-md-6 intro-text'>
+              <div className='col-md-6 intro-text right-target'>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
@@ -29,7 +30,7 @@ export const Header = (props) => {
                   </div>
                 </div>
               </div>
-              <div className="col-md-6 intro-text">
+              <div className="col-md-6 intro-text right-target">
                 <div className="w-100 padding-x-30">
                   <div>
                     <video className="w-100 border-radius-10" controls >

@@ -10,7 +10,7 @@ export const Island = (props) => {
             <p>An amazing place where birds do what no one else can do.</p>
           </div>
         </div>
-        <div className='row'>
+        <div className='row' id="sub-island">
           {props.data
             ? props.data.map((data, i) => (
               <div className="col-12 col-md-6" key={i}>

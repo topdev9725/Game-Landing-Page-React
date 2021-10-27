@@ -21,6 +21,7 @@ export const Level = (props) => {
           <div className="col-12 col-md-6">
             <LabelCard /> 
           </div>
+          <div className="col-12 col-md-12" id="sub-level">
           {props.data
             ? props.data.map((data, i) => (
               <div className="col-12 col-md-6" key={i}>
@@ -28,6 +29,7 @@ export const Level = (props) => {
               </div>
             ))
             : 'Loading...'}
+          </div>
         </div>
       </div>
     </div>

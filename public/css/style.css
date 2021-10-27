@@ -855,6 +855,68 @@ label {
   margin-top: 80px;
 }
 
+
+.left-target {
+  animation-duration: 2s;
+  position: relative;
+  animation-name: leftToRight;
+}
+
+@keyframes leftToRight {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+.right-target {
+  animation-duration: 2s;
+  position: relative;
+  animation-name: rightToLeft;
+  /* animation-direction: reverse; */
+}
+
+@keyframes rightToLeft {
+  from {
+    right: -50%;
+  }
+  to {
+    right: 0;
+  }
+}
+
+.top-target {
+  animation-duration: 2s;
+  position: relative;
+  animation-name: upToDown;
+}
+
+@keyframes upToDown {
+  from {
+    top: -242px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+.bottom-target {
+  animation-duration: 2s;
+  position: relative;
+  animation-name: downToUp;
+}
+
+@keyframes downToUp {
+  from {
+    bottom: -200px;
+  }
+  to {
+    bottom: 0;
+  }
+}
+
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;

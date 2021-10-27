@@ -10,7 +10,7 @@ export const Challenging = (props) => {
             <p className="f-25 text-capitalize">Test your skills on different courses</p>
           </div>
         </div>
-        <div className='row'>
+        <div className='row' id="sub-challenging">
           {props.data
             ? props.data.map((data, i) => (
               <div className="col-12 col-md-6" key={i}>

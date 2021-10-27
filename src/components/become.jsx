@@ -15,7 +15,7 @@ export const Become = (props) => {
           </div>
         </div>
         <div className='row'>
-          <div className="col-md-12 title-item-list">
+          <div className="col-md-12 title-item-list" id="sub-become">
             {props.data
               ? props.data.map((d, i) => (
                   <div key={`${d.title}-${i}`} className='col-12 col-md-4'>

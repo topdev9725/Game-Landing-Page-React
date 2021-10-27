@@ -6,7 +6,7 @@ export const Features = (props) => {
           {props.data
             ? (
               <div className='col-sm-12 col-md-12 col-lg-12'>
-                <div className="block-2">
+                <div className="block-2" id="sub-features">
                   <h1 className="text-white">FOUR KEYS TO PLAY, MANY BATTLES TO WIN</h1>
                   <p className="text-white">ARE YOU READY FOR THIS ADVENTURE ?</p>
                 </div>
