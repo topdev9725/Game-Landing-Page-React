@@ -895,7 +895,7 @@ label {
 
 @keyframes upToDown {
   from {
-    top: -242px;
+    top: -240px;
   }
   to {
     top: 0;
